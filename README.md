@@ -41,3 +41,7 @@ People often lose important belongings such as ID cards, purses, phones, or keys
 <img width="1700" height="2200" alt="User stories schema-2" src="https://github.com/user-attachments/assets/ff181ef4-9ccb-4934-9bf5-aa3f3d5373d0" />
 <img width="1700" height="2200" alt="User stories schema-3" src="https://github.com/user-attachments/assets/9a0f7b91-26d7-4e73-ba29-10eff426b0c3" />
 <img width="1700" height="2200" alt="User stories schema-4" src="https://github.com/user-attachments/assets/6739c70c-8710-4e10-a29a-a9b14394eaf9" />
+
+# GIF
+![WeDev](https://github.com/user-attachments/assets/7d7c98e9-f21f-4841-9494-2206b4e78bb1)
+
