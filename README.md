@@ -44,8 +44,5 @@ People often lose important belongings such as ID cards, purses, phones, or keys
 
 
 
-
-
-
     • User should be able to use location tracking (map view) to see where items were reported lost/found.
     • User should be able to earn “trust points” or badges for successfully returning lost items.
