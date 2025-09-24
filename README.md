@@ -1,1 +1,39 @@
 
+
+# Group Members
+- Ardenshley Nage  
+- Pierre Louis Seth Luxama  
+- Lordé Belensky 
+
+# App Ideas
+- Share files without internet and with any devices  
+- An app that can let you find your lost item  
+- An app that shares and promotes Haitian food “Manje Peyim” 
+
+# Final App Idea :
+**Lost Item:**  
+People often lose important belongings such as ID cards, purses, phones, or keys. To solve this problem, we designed an app that allows users to report items they lost. Other users can also report items they found, making it easier to reconnect owners with their belongings.
+
+# User Stories :
+
+# Must have
+  - User should be able to create a post to report a lost item (with description, and optional picture).
+  - User should be able to create a post to report a found item (with description, location, date, and optional picture).
+  - User should be able to browse/search a list of lost and found items.
+  - User should be able to contact another user who reported a lost/found item.
+  - User should be able to delete or update their own posts.
+
+
+# Maybe
+  - User should be able to filter/search items by category (e.g., electronics, IDs, wallets, keys, etc.).
+  - User should be able to verify identity when reclaiming an item (e.g., upload proof of ownership).
+  - User should be able to mark an item as “Returned” once it is claimed by the rightful owner.
+  - User should be able to receive notifications when a matching item is reported nearby.
+
+
+# Would be nice to have
+  - User should be able to share lost/found posts on social media.
+  - User should be able to use location tracking (map view) to see where items were reported lost/found.
+  - User should be able to earn “trust points” or badges for successfully returning lost items.
+    • User should be able to use location tracking (map view) to see where items were reported lost/found.
+    • User should be able to earn “trust points” or badges for successfully returning lost items.
