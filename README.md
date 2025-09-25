@@ -2,8 +2,8 @@
 
 # Group Members
 - Ardenshley Nage  
-- Pierre Louis Seth Luxama  
-- Lordé Belensky 
+- Seth Luxama Pierre Louis
+- Belensky Lordé  
 
 # App Ideas
 - Share files without internet and with any devices  
