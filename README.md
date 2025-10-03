@@ -11,7 +11,7 @@
 - An app that shares and promotes Haitian food “Manje Peyim” 
 
 # Final App Idea :
-**Lost Item:**  
+**Lost Item (jwennli):**  
 People often lose important belongings such as ID cards, purses, phones, or keys. To solve this problem, we designed an app that allows users to report items they lost. Other users can also report items they found, making it easier to reconnect owners with their belongings.
 
 # User Stories :
